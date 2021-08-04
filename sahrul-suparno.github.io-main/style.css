@@ -1,0 +1,20 @@
+.jumbotron {
+  background-color: #ffffff;
+}
+
+#About {
+  background-color: #a2d9ff;
+}
+
+h1 {
+  font-family: Tahoma;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: black;
+  padding-bottom: 3px;
+}
